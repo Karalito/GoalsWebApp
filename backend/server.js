@@ -18,4 +18,5 @@ app.use('/api/users', require('./routes/userRoutes'));
 // Middleware
 app.use(errorHandler);
 
+
 app.listen(port, () => console.log(`Server is started on port ${port}`));
