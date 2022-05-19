@@ -67,7 +67,7 @@ h3 {
   align-items: center;
 }
 
-.header ul li a:first-child{
+.header ul li a:first-child {
   margin-right: 15px;
 }
 .header ul li a:hover {
@@ -214,5 +214,9 @@ h3 {
 
   .heading p {
     font-size: 1.5rem;
+  }
+
+  .goals {
+    display: inline;
   }
 }
